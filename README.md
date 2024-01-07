@@ -1,3 +1,106 @@
+*unit-1*
+
+1. **Software Engineering Layered Technology:**
+   Software engineering layered technology refers to the organized and structured approach to designing and developing software systems by breaking down the process into different layers or levels. Each layer represents a specific aspect of the software development life cycle, and the interaction between these layers facilitates efficient and systematic software development. The layered technology approach helps manage complexity, improve maintainability, and enhance the overall quality of the software.
+
+2. **Software Engineering:**
+   Software engineering is a systematic and disciplined approach to designing, developing, testing, and maintaining software systems. It involves the application of engineering principles to software development, focusing on creating reliable, scalable, and efficient software solutions that meet specified requirements.
+
+3. **Stages of Processing Models:**
+   The stages of processing models in software engineering typically include:
+   - **Requirements Analysis:** Identifying and documenting the software requirements.
+   - **System Design:** Creating a high-level design that outlines the overall structure and components of the system.
+   - **Implementation:** Writing the actual code based on the design specifications.
+   - **Testing:** Verifying that the software meets the specified requirements and functions correctly.
+   - **Deployment:** Introducing the software into the production environment.
+   - **Maintenance:** Making modifications and updates to the software to address issues and improve functionality over time.
+
+4. **Diagram of Requirement Change Management:**
+   [Diagram not provided.]
+
+5. **Software Requirements:**
+   Software requirements specify the functional and non-functional features that a software system must possess. They include:
+   - **Functional Requirements:** Descriptions of the system's functionalities and features.
+   - **Non-Functional Requirements:** Specifications related to system performance, reliability, scalability, and other quality attributes.
+
+6. **Diagram of Different Non-Functional Requirements:**
+   [Diagram not provided.]
+
+7. **Feasibility Study:**
+   A feasibility study is an analysis conducted at the beginning of a project to assess its practicality and viability. It typically includes:
+   - **Technical Feasibility:** Examining whether the proposed technology can be implemented.
+   - **Operational Feasibility:** Assessing whether the system will be acceptable to its end users.
+   - **Economic Feasibility:** Evaluating the project's cost-effectiveness and return on investment.
+   - **Legal Feasibility:** Ensuring that the project complies with legal requirements.
+
+8. **Functional and Non-Functional Requirements:**
+   - **Functional Requirements:** These specify what the system should do, describing its features, capabilities, and operations. They address the "what" of the system's behavior.
+   - **Non-Functional Requirements:** These define the qualities or attributes that characterize how the system should behave or perform. Examples include reliability, usability, performance, and security. Non-functional requirements address the "how well" aspect of the system's behavior.
+  
+*unit-2*
+
+1. **Elements of Design Model:**
+   The elements of a design model in software engineering typically include:
+   - **Architectural Design:** High-level structure and organization of the system.
+   - **Interface Design:** Specifications for how components interact with each other.
+   - **Component-Level Design:** Detailed design of individual components or modules.
+   - **Data Design:** Organization and structure of data within the system.
+   - **Procedural Design:** Specification of algorithms and procedures.
+
+2. **Why Software Architecture is Important:**
+   Software architecture is crucial for several reasons:
+   - **Blueprint for the System:** It provides a high-level blueprint for the overall structure and organization of the software system.
+   - **Quality Attributes:** It helps ensure that the software meets desired quality attributes such as scalability, reliability, and maintainability.
+   - **Communication:** It serves as a means of communication among stakeholders, including developers, clients, and project managers.
+   - **Risk Management:** It helps identify potential risks and mitigations early in the development process.
+
+3. **Quality Attributes:**
+   Quality attributes in software engineering include:
+   - **Reliability**
+   - **Scalability**
+   - **Performance**
+   - **Maintainability**
+   - **Usability**
+   - **Portability**
+   - **Availability**
+   - **Security**
+   - **Flexibility**
+   - **Interoperability**
+
+4. **Importance of Architecture:**
+   - **Foundation for Design:** Architecture provides a solid foundation for the detailed design and implementation phases.
+   - **Risk Reduction:** It helps identify and mitigate potential risks early in the development process.
+   - **Cost and Time Savings:** A well-designed architecture can save time and costs associated with development, maintenance, and future enhancements.
+   - **Quality Assurance:** It ensures that the system meets the desired quality attributes and performance requirements.
+
+5. **Functional Dependency of Design Concepts:**
+   Functional dependency in design concepts refers to the reliance of certain design elements on others. For example, the design of a component may depend on the specifications provided by the interface design, and the overall system architecture may influence the design of individual components.
+
+6. **Define Component:**
+   A component in software engineering is a modular and reusable unit of software that encapsulates a set of related functions or data. Components can be independently developed, tested, and maintained, making them building blocks for larger software systems.
+
+7. **Difference Between Architectures and Patterns:**
+   - **Architecture:** Defines the high-level structure of a software system, including its components, their relationships, and the principles guiding their design.
+   - **Patterns:** Describe recurring solutions to common design problems. Patterns can be part of an overall architectural design, providing guidelines for solving specific design issues within the architecture.
+
+8. **"Golden Rules" of Designing:**
+   The "Golden Rules" of designing can vary, but they often include principles such as:
+   - **Keep it Simple**
+   - **Modularity and Encapsulation**
+   - **Abstraction**
+   - **Separation of Concerns**
+   - **Flexibility and Extensibility**
+   - **Scalability**
+
+9. **Component Level Design Guidelines:**
+   - **High Cohesion:** Components should have closely related and focused responsibilities.
+   - **Low Coupling:** Minimize dependencies between components.
+   - **Information Hiding:** Encapsulate details within components to limit access from outside.
+   - **Reuse:** Design components to be reusable in different parts of the system.
+   - **Scalability:** Ensure that components can scale and adapt to changing requirements.
+   - **Consistency:** Maintain consistency in design conventions and patterns across components.
+
+
 *unit-3*
 
 **1.Importance of UML:**
