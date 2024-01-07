@@ -16,7 +16,9 @@
    - **Maintenance:** Making modifications and updates to the software to address issues and improve functionality over time.
 
 4. **Diagram of Requirement Change Management:**
-   [Diagram not provided.]
+   
+![WhatsApp Image 2024-01-07 at 21 06 02_98539075](https://github.com/ace2884/sdeshort/assets/119153850/bc126c9e-060d-41bb-bc03-39a3f25cb820)
+
 
 5. **Software Requirements:**
    Software requirements specify the functional and non-functional features that a software system must possess. They include:
@@ -24,7 +26,9 @@
    - **Non-Functional Requirements:** Specifications related to system performance, reliability, scalability, and other quality attributes.
 
 6. **Diagram of Different Non-Functional Requirements:**
-   [Diagram not provided.]
+   
+![WhatsApp Image 2024-01-07 at 21 06 03_2522097b](https://github.com/ace2884/sdeshort/assets/119153850/9647570d-b33e-424f-8b47-a11c9b45c980)
+
 
 7. **Feasibility Study:**
    A feasibility study is an analysis conducted at the beginning of a project to assess its practicality and viability. It typically includes:
